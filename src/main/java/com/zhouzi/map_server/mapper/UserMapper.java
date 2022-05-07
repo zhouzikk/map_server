@@ -1,7 +1,7 @@
-package generator.mapper;
+package com.zhouzi.map_server.mapper;
 
-import generator.domain.User;
-import com.baomidou.mybatisplus.mapper.BaseMapper;
+import com.baomidou.mybatisplus.core.mapper.BaseMapper;
+import com.zhouzi.map_server.domain.User;
 
 /**
 * @author 16267

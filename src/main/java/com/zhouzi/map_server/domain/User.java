@@ -1,4 +1,4 @@
-package generator.domain;
+package com.zhouzi.map_server.domain;
 
 import java.io.Serializable;
 
